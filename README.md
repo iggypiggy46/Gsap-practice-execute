@@ -3,7 +3,7 @@
 
 ## Citations
 GSAP scroll Trigger Pen 
-"https://unpkg.co/gsap@3/dist/gsap.min.js
+"https://unpkg.co/gsap@3/dist/gsap.min.js"
 "https://assets.codepen.io/16327/ScrollTrigger.min.js"
 
 Favicon.io
